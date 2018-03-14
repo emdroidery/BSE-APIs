@@ -1,4 +1,4 @@
-package io.vertx.starter;
+package com.emdroidery.bse;
 
 import io.vertx.core.AbstractVerticle;
 
